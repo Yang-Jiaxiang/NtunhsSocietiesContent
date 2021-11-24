@@ -1,0 +1,25 @@
+{
+  "name": "ntunhssocietiescontent",
+  "version": "1.0.0",
+  "description": "SocietiesContent",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yang-Jiaxiang/NtunhsSocietiesContent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yang-Jiaxiang/NtunhsSocietiesContent/issues"
+  },
+  "homepage": "https://github.com/Yang-Jiaxiang/NtunhsSocietiesContent#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "run": "^1.4.0",
+    "start": "^5.1.0"
+  }
+}
